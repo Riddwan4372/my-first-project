@@ -8,3 +8,7 @@ notes.txt
 Day 2 exploring Base ecosystem
 Deployed token and interacting with dApps
 Learning about airdrop and on-chain activity
+Day 3 exploring Base ecosystem
+Created another smart contract on Base network
+Continuing to learn about on-chain activity and airdrop strategies
+update daily progress notes
