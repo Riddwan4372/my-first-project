@@ -12,3 +12,7 @@ Day 3 exploring Base ecosystem
 Created another smart contract on Base network
 Continuing to learn about on-chain activity and airdrop strategies
 update daily progress notes
+Day 4 exploring Base ecosystem
+Continuing on-chain activities and improving consistency
+Working on GitHub commits and smart contract interactions
+update daily progress notes
