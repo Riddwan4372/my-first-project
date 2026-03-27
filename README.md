@@ -16,3 +16,7 @@ Day 4 exploring Base ecosystem
 Continuing on-chain activities and improving consistency
 Working on GitHub commits and smart contract interactions
 update daily progress notes
+Day 5 exploring Base ecosystem
+Performed cross-chain bridge from Ethereum to Base
+Executed smart contract deployment and wallet transfer
+Continuing consistent GitHub commits and on-chain interactions
