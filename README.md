@@ -21,32 +21,41 @@ Performed cross-chain bridge from Ethereum to Base
 Executed smart contract deployment and wallet transfer
 Continuing consistent GitHub commits and on-chain interactions
 Day 6 Exploring Base Ecosystem
-==============================
+## Update Progress
 
-Date: [Isi tanggal hari ini]
+### Day 6 – Exploring Base Ecosystem
+Date: 28 March 2026
 
-Tasks Completed:
+---
+
+### Tasks Completed
 1. Deployed 6 smart contracts on Base network
 2. Transferred tokens between wallets
 3. Swapped ETH to USDC using Uniswap
 4. Continued interacting with Base dApps
-5. Created and updated GitHub repository (my-first-project)
-6. Practiced committing progress notes from Android
+5. Updated GitHub repository (my-first-project)
+6. Practiced committing progress from Android
 
-On-Chain Activity Summary:
-- Successfully deployed multiple smart contracts
-- Performed token transfers between different wallets
-- Executed swap ETH → USDC with low gas fee on Base
-- Maintained consistent on-chain interaction for airdrop potential
+---
 
-Notes / Learnings:
+### On-Chain Activity Summary
+- Deployed multiple smart contracts
+- Performed token transfers across wallets
+- Executed ETH → USDC swap with low gas fees
+- Maintained consistent on-chain activity
+
+---
+
+### Notes / Learnings
 - Learned basic smart contract deployment workflow
 - Understood importance of wallet interaction consistency
-- Improved awareness of scam/phishing (avoiding fake DEX links)
+- Improved awareness of scam/phishing risks
 - Practiced documenting progress using GitHub
 
-Next Steps:
-- Continue deploying and interacting with smart contracts
+---
+
+### Next Steps
+- Continue deploying smart contracts
 - Explore more dApps in Base ecosystem
 - Maintain daily GitHub commits
 - Research more airdrop opportunities
