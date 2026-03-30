@@ -94,3 +94,37 @@ Date: 29 March 2026
 - Explore new dApps within Base ecosystem
 - Maintain daily interaction pattern
 - Monitor potential airdrop opportunities
+- ## Day 8 – Expanding On-Chain Activity
+Date: 30 March 2026
+
+---
+
+### Tasks Completed
+1. Sent tokens to another wallet address
+2. Bridged ETH from Base to Arbitrum network
+3. Deployed SimpleStorage smart contract using Remix
+4. Continued exploring cross-chain and contract interaction
+
+---
+
+### On-Chain Activity Summary
+- Performed cross-chain transaction (Base → Arbitrum)
+- Maintained token transfer activity
+- Added new contract deployment with interaction
+- Continued consistent on-chain engagement
+
+---
+
+### Notes / Learnings
+- Learned more about cross-chain bridging process
+- Experienced Remix environment limitations on mobile
+- Understood importance of contract interaction after deployment
+- Improved consistency in daily Web3 activity
+
+---
+
+### Next Steps
+- Continue deploying different types of contracts
+- Maintain daily GitHub commits
+- Explore more dApps across Base ecosystem
+- Keep building natural on-chain activity pattern
