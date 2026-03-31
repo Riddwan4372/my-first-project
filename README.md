@@ -128,3 +128,15 @@ Date: 30 March 2026
 - Maintain daily GitHub commits
 - Explore more dApps across Base ecosystem
 - Keep building natural on-chain activity pattern
+- day-9.md
+- # Day 9 - Onchain Activity
+
+Today I continued my onchain journey on Base network.
+
+Activities:
+- Sent tokens
+- Swapped assets (ETH to USDT)
+- Deployed smart contract (Counter contract)
+- Interacted with contract (increment function)
+
+Consistency is key. Keep building.
