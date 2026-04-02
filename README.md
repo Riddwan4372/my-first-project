@@ -141,3 +141,20 @@ Activities:
 
 Consistency is key. Keep building.
 git commit -m "Day 10: Completed NFT mint, bridge via Orbiter (Base → Optimism), token transfer, deployed MessageStore contract and updated message"
+day-11.md
+Day 11 - Base Onchain Activity
+
+Today I continued my onchain journey on the Base network with more smart contract interactions and transactions.
+
+* Swapped ETH on Base network
+* Bridged assets across networks
+* Sent tokens between wallets
+* Deployed SimpleVault smart contract using Remix
+  Contract Address: 0x864f223feA0A6d4efc1efFfF0e57C577DAb97D98
+* Interacted with the contract (multiple deposits & successful withdraw)
+
+Learning:
+Today I improved my understanding of smart contract interactions, especially the difference between payable and non-payable functions, and how to correctly use value and amount fields in Remix.
+
+#Base #Onchain #BuildInPublic
+
