@@ -1,4 +1,4 @@
-# Day 13 - Base Onchain Journey
+# Day 12 - Base Onchain Journey
 
 ## 🚀 Activities
 
