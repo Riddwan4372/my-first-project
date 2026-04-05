@@ -33,5 +33,47 @@
 * Smart contract deployment: consistent
 * Interaction pattern: improved
 * Activity quality: high (natural behavior)
+* # Day 14 - Base Onchain Journey
+
+## 🚀 Activities
+
+* Deployed custom smart contract (MyContract) on Base network
+* Executed multiple contract interactions:
+
+  * setValue
+  * increment
+  * deposit
+  * getBalance
+* Sent ETH to contract using wei unit
+* Performed additional token transfer to another wallet (separate timing)
+* Maintained natural onchain activity pattern
+
+## 📊 Contract Interaction
+
+* Full interaction cycle completed (read & write)
+* Multiple transactions executed successfully
+* Contract balance checked and updated
+
+## 🔍 Onchain Proof
+
+* Contract deployed and interacted multiple times
+* Deposit transactions recorded in wei
+* Token transfer executed with time separation
+
+## 💡 Learning
+
+* Understood uint256 usage in constructor
+* Improved understanding of payable vs non-payable functions
+* Practiced wei-based transactions in Remix
+* Reinforced natural transaction timing strategy
+
+## 🎯 Progress
+
+* Smart contract interaction: advanced
+* Activity pattern: highly natural
+* Consistency: Day 14 achieved
+
+---
+
 
 ---
