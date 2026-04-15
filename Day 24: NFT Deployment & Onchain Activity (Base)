@@ -1,0 +1,47 @@
+# 📅 Day 24 – Base Onchain Activity
+
+## 🔄 Transactions
+
+* **Swap ETH → USDT (via MetaMask)**
+  Tx: 0xd1fcc7608f5d070f0ae500d88c381a278ac8010df4bb8e232a655baa58535db5
+
+* **Send Token (Base Network)**
+  Tx: 0x1d5a900b7cae74f3554a10f1b32c2856085fbd861854252b9d5f8c616aebfd9a
+
+---
+
+## 🧠 Smart Contract Deployment (Remix)
+
+* **Contract**: OEN (ERC-721 NFT)
+* **Deploy Tx**:
+  0x1346de57dc9753c258b62c81f380043093b6c842b2e63c1e6cddbc7e3a521260
+
+---
+
+## 🎨 NFT Minting
+
+* **Mint Function**: mintNFT(address)
+* **Mint Tx**:
+  0xa17e9eab1b3ab3178241b442caf8b90e395095dc39d7c951a95b9d95dbb40a05
+
+---
+
+## 🧪 Contract Interaction
+
+* Successfully deployed and interacted with ERC-721 smart contract
+* Minted NFT to personal wallet
+
+---
+
+## 📝 Notes
+
+* Learned how to deploy NFT contract using Remix on Base network
+* Practiced contract interaction (mint function)
+* Improved understanding of ERC-721 structure and onchain activity
+* Combined DeFi + Smart Contract activity in one day
+
+---
+
+## 🚀 Status
+
+✅ Commit completed
