@@ -1,5 +1,37 @@
 Day 25: Smart Contract Deployment & Onchain Activity (Base)
 ## Day 25 - Onchain Activity (Base Network)
+## 🧾 Onchain Identity Proof (Base Network)
+
+* **Basename:** bangjwan.base.eth
+* **Wallet Address:** 0x66B048689FcEb7bF6EfBc260CC1F53d640759738
+* **Network:** Base
+
+### 🔗 Verification
+
+* BaseScan Profile:
+  https://basescan.org/address/0x66B048689FcEb7bF6EfBc260CC1F53d640759738
+
+* NFT Transfers (Basename ownership proof):
+  https://basescan.org/address/0x66B048689FcEb7bF6EfBc260CC1F53d640759738#nfttransfers
+
+---
+
+### 📌 Notes
+
+* Basename has been set as **primary name**
+
+* Wallet actively used for:
+
+  * Swap
+  * Token transfer
+  * Smart contract deployment & interaction
+  * NFT mint
+  * Cross-chain & bridge activity
+
+* Basename not detected in Base Guild due to **indexing/system issue**
+
+* All onchain activity verified via BaseScan
+
 
 ### 🔄 Swap Activity (MetaMask)
 
